@@ -22,7 +22,7 @@ Open the Maven Tool Window and execute the following goals to ensure there are n
 3. Install - Right click and "Run Mavwn Build"
 All the goals should report "Process finished with exit code 0"
 
-![Demonstration of three Maven Goals to execute.](/images/maven_goal_execute.gif)
+![Demonstration of three Maven Goals to execute.](/images/AddressBookMavenBuild.gif)
 
 ## Classes
 
